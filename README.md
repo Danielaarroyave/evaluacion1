@@ -2,5 +2,5 @@
 se realiza evaluacion
 ****************************************
 Programado por:
-Daniela Arroyave
+Daniela Arroyave y 
 Dany Jiménez
